@@ -3,6 +3,9 @@
 @tailwind components;
 @tailwind utilities;
 
+<h1 style="color: red;">Hello, this is a test!</h1>
+
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-rgb: 255, 255, 255;
